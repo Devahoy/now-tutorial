@@ -9,4 +9,4 @@ Now Tutorial
 
 ## See more
 
-[https://devahoy.com/posts/deploy-website-with-now/](Deploy Website แบบไม่เสียตังด้วย Now กันเถอะ)
+[Deploy Website แบบไม่เสียตังด้วย Now กันเถอะ](https://devahoy.com/posts/deploy-website-with-now/)
